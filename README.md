@@ -2,6 +2,8 @@
 ### Master the art of programming high-performance applications with Dart 
 ### 编写高性能Dart应用程序的艺术
 
+![Mastering Dart](images/cover.png)
+
 # 书籍简介
 * 原书作者 Sergey Akopkokhyants
 
